@@ -1,0 +1,26 @@
+div {
+    border: 2px solid orange;
+    width:fit-content;
+    padding: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 226, 173);
+}
+
+h1 {
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+
+ul li,
+li a {
+    color: orange;
+}
+
+a {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 16px;
+}

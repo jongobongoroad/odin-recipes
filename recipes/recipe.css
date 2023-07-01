@@ -1,0 +1,37 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+    height: auto;
+    width: 600px;
+    border: 2px solid green;
+    padding: 1.5%;
+    background-color: rgb(194, 255, 194);
+}
+
+h1,
+h2.green {
+    color:white;
+    background:green;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    display: block;
+    margin: auto;
+    border-radius: 16px;
+}
+
+ul li {
+    font-size: 12px;
+}
+
+ol li {
+    font-size: 14px;
+}
